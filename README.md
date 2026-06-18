@@ -20,7 +20,7 @@ This project predicts whether a student will pass or fail based on academic and 
 7. Built a Power BI dashboard to visualize performance insights.
 
 ## Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](outputs/charts/dashboard.png)
 
 ## Key Features
 - Pass/fail prediction
